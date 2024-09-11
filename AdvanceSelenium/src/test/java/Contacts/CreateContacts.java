@@ -12,7 +12,7 @@ import Generic_Utility.WebDriver_Utility;
 public class CreateContacts {
 	//pull it
 	
-	//push it to repo
+	//push it to reposit
 	public static void main(String[] args) throws Throwable {
 
 		WebDriver driver = new ChromeDriver();
